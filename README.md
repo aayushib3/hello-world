@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Globytes!
+
+Hubot here, I like php and wordpress!!
